@@ -1,11 +1,51 @@
 ---
-title: "haven-shae.github.io"
+title: "Haven Shae Portillo, CF APMP"
+image: IMG_3583 2.jpeg
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 23em
+  image-alt: Palo Duro Canyon State Park, Texas (2nd largest canyon in the U.S.)
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/haven-portillo-cf-apmp-0567111a4/
+    - icon: github
+      text: GitHub
+      href: https://github.com/haven-shae
+    - icon: envelope-open
+      text: Email
+      href: mailto:haven.portillo@colostate.edu
 ---
 
-This is a Quarto website.
+Haven Shae Portillo, CF APMP is an environmental and sustainability studies professional with a strong passion for contributing to community development that is resilient, inclusive, forward-thinking, and environmentally responsible. Cross-functional leader with experience spanning natural resource management, environmental health, hazard mitigation, international environmental policy, climate migration, and climate action and adaption. Strong for-profit and non-profit business development, marketing, and proposal writing background.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#hero-heading}
+Outside of envisioning a sustainable future for all, Haven enjoys crafting and DIY projects, roller skating, and spending time in nature with her husband and dog.
 
-```{r}
-1 + 1
-```
+## Education
+
+***Colorado State University \| Fort Collins, CO \| Jan 2026 - Dec 2028***
+
+Professional Science Masters in Ecosystem Science and Sustainability with a focus on Water Resources and Climate Adaptation and Management
+
+***The University of Texas at Austin \| Austin, TX \| August 2018 - May 2022***
+
+B.A in Sustainability Studies with a focus on Natural Resource Management
+
+B.A. in Geography with a focus on Geographic Information Systems and Mapping
+
+B.A. in International Relations with a focus on Global Science, Technology, and the Environment
+
+Certificate in Spanish for Business Professions
+
+## Experience
+
+H2O Partners, Inc. \| April 2023 - Present
+
+Business Development Coordinator: Leads the development of strategic responses to government Requests for Proposals (RFPs), with a focus on urban and environmental planning, hazard mitigation, disaster recovery, outreach, and training.
+
+Austin Habitat for Humanity \| 2022 - 2023
+
+Site Supervisor: Supervised day-to-day operations on multiple affordable housing construction sites, ensuring volunteer tasks were completed safely, efficiently, and in alignment with project timelines.
+:::

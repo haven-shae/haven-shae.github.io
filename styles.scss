@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+// define Sass vars 
+$dustyrose: #c2788d;
+$rose: #b7436d;
+$mint: #78c2ad;
+$navy: #506e9b;
+$beigeish: #eae7ec;
+$gray: #64605f;
+$lightblue: #5c6fa1;
+$white: #fdfaff;
+
+// Base document colors
+$navbar-bg: $mint; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $rose; // highlight color when hovering over navbar links
+$body-bg: $beigeish; // page background 
+$body-color: $navy; // page text 
+$link-color: $dustyrose; // hyperlinks 
+
+// Inline code
+$code-bg: $gray; // inline code background color
+$code-color: $navy; // inline code text color
+
+.quarto-about-jolla img {
+  border-radius: 50%;
+}
+
+.navbar-logo {
+  height: 75px; 
+  max-height: none; /* Overrides default restrictions on logo size */
+}

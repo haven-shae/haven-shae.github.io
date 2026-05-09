@@ -5,18 +5,24 @@ project:
 # ~ additional metadata ~
 
 website:
-  title: "haven-shae.github.io"
+  title: "Haven Shae Portillo, CF APMP"
+  favicon: files/Logo4.png
   navbar:
+    title: false # override printing your website `title` (e.g. "Sam Csik" on line 6) in the top left corner of your navbar
+    logo: files/Logo3.png
+    logo-alt: "Alt text for logo"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Blog.qmd
+      - href: files/Resume.pdf
+        text: Resume
+        target: _blank
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [minty, styles.scss]
     css: styles.css
     toc: true
 

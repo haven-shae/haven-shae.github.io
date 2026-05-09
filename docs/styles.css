@@ -1,1 +1,10 @@
 /* css styles */
+
+.quarto-about-jolla img {
+  border-radius: 50%;
+}
+
+.navbar-logo {
+  height: 75px; 
+  max-height: none; /* Overrides default restrictions on logo size */
+}
